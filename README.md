@@ -27,11 +27,16 @@ This notebook is fully interactive — click the badge above to run it in Google
 
 ## Screenshots
 
-(Recommended: Add exported images from your notebook here, e.g.:)
-- Efficient Frontier plot
+
 - Correlation Heatmap
+  <img width="395" height="340" alt="image" src="https://github.com/user-attachments/assets/577c8a56-6b67-4664-9dd3-263270cf5c82" />
+
 - Monte Carlo Simulation Paths
+  <img width="527" height="347" alt="image" src="https://github.com/user-attachments/assets/3dbd6935-b084-4070-9874-e209581cf0e8" />
+
 - Moving Averages for NVDA
+  <img width="484" height="236" alt="image" src="https://github.com/user-attachments/assets/04c0d757-d605-45ca-9c8f-e16efa84a311" />
+
 
 ## How to Run
 1. Open the notebook in Colab via the badge above.
